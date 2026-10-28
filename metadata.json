@@ -1,0 +1,6 @@
+{
+  "name": "Artisanal Jewelry & Gemstone Studio",
+  "description": "Artisanal gemstone jewelry and hands-on crafting workshops in Mumbai (Andheri West & Colaba Causeway). Studio Solen aesthetic with Coastal Girl palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
